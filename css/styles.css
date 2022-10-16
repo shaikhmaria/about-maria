@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Noto Serif Telugu', serif;
+  background-color: #E7D9EA;
+}
+
+hr {
+  background-color:;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C9BBCF;
+  border-width: 6px;
+  width: 3%;
+}
+
+p {
+  font-size: 20px;
+
+}
+
+.hello {
+margin-top: 1px;
+}
+.gmail {
+  font-size: 20px;
+}
+.contact-me {
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 90px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #5C2E7E;
+}
+
+h2 {
+color: #035397;
+font-size: 40px;
+font-family: 'Cinzel', serif;
+padding-top: 50px;
+
+margin-top: 100px;
+
+}
+
+.p1 {
+    margin-top: 100px;
+    margin-bottom: 0px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+}
+
+
+.p2 {
+  margin-bottom: 150px;
+}
+
+h3 {
+  color:#23689B;
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h4 {
+  color: #035397;
+  margin-top: 50px;
+  font-size: 20px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+
+}
+
+.developer {
+  bottom: 310px;
+  position: relative;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 30px;
+  color: #5C2E7E;
+  font-weight: 200;
+}
+
+
+
+.top {
+  background-color: #C9BBCF;
+  height:600px;
+  padding-bottom: 200px;
+  position: relative;
+}
+
+.middle {
+  background-color: #E7D9EA;
+
+
+}
+
+
+  .contact-me {
+    background-color: #E7D9EA;
+  }
+
+.bottom {
+ background-color: #9A86A4;
+
+}
+
+.profileimg {
+position: relative;
+top: 40px;
+}
+
+
+
+ .skill-row {
+   padding-top: 20px;
+   width: 50%;
+   margin: 50px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+
+ }
+.profileimg:hover {
+
+  background-color: #A58FAA;
+
+}
+
+
+
+
+  .maria {
+    position:relative;
+    bottom: 150px;
+  }
+
+
+
+
+ .cloud1 {
+   position: absolute;
+   right: 300px;
+   bottom: 500px;
+ }
+
+
+.design {
+  position: relative;
+  top: 493px;
+}
+
+
+  .cloud2 {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+  }
+
+
+ .profile {
+   padding-top: 20px;
+ }
+
+ .code {
+   width: 45%;
+   float: left;
+   margin-right: 20px;
+   position: relative;
+   bottom: 50px;
+ }
+
+ .art {
+   width: 30%;
+   float: right;
+   position: relative;
+   bottom: 30px;
+   left: 50px;
+ }
